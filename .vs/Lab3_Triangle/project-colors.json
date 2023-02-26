@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "8c925af1-8807-47c9-8a2a-846d82f2f8e2": {
+      "ProjectGuid": "8c925af1-8807-47c9-8a2a-846d82f2f8e2",
+      "DisplayName": "Lab3_Triangle",
+      "ColorIndex": 0
+    },
+    "d285c6ca-f33b-4a22-a396-8612b566edc5": {
+      "ProjectGuid": "d285c6ca-f33b-4a22-a396-8612b566edc5",
+      "DisplayName": "TestClass",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab3_Triangle", "Lab3_Triangle\Lab3_Triangle.csproj", "{8C925AF1-8807-47C9-8A2A-846D82F2F8E2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestClass", "TestClass\TestClass.csproj", "{D285C6CA-F33B-4A22-A396-8612B566EDC5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8C925AF1-8807-47C9-8A2A-846D82F2F8E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C925AF1-8807-47C9-8A2A-846D82F2F8E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C925AF1-8807-47C9-8A2A-846D82F2F8E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C925AF1-8807-47C9-8A2A-846D82F2F8E2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D285C6CA-F33B-4A22-A396-8612B566EDC5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D285C6CA-F33B-4A22-A396-8612B566EDC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D285C6CA-F33B-4A22-A396-8612B566EDC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D285C6CA-F33B-4A22-A396-8612B566EDC5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {87409FE7-29E1-45A5-83D4-1185B81213C9}
+	EndGlobalSection
+EndGlobal
